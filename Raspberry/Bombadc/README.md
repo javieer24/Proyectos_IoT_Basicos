@@ -8,7 +8,7 @@
 
 - **Pines IN1 y IN2:** Controlan la dirección del motor. Al cambiar el estado lógico de estos pines, se invierte el sentido de giro del motor.
 - **Pin EN:** Controla la velocidad del motor mediante modulación por ancho de pulso (PWM). Al variar el ciclo de trabajo de este pin, se modifica la velocidad del motor.
-- **NOTA**: *Se recomienda conectar la tierra del modulo a la raspberry en común como  se muestra en la imagen tener en cuenta.*
+- **NOTA**: *Se recomienda conectar la tierra (GND) del modulo a la raspberry en común como  se muestra en la imagen tener en cuenta.*
 
 ## Datasheet
 
